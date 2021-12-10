@@ -39,3 +39,7 @@ ans =
 1. `download.sh`
 2. `extract.sh`
 3. `convert.m`
+
+# References
+
+Dobslaw, Henryk, Inga Bergmann-Wolf, Robert Dill, Ehsan Forootan, Volker Klemann, Jürgen Kusche, and Ingo Sasgen. 2015. “The Updated ESA Earth System Model for Future Gravity Mission Simulation Studies.” Journal of Geodesy 89 (5): 505–13. DOI: [10.1007/s00190-014-0787-8](https://doi.org/10.1007/s00190-014-0787-8).
